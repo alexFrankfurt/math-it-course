@@ -1,0 +1,5 @@
+.idea/
+.stack-work/
+RegExp/
+cabal.config
+*.iml
